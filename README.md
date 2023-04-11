@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @CookieBearJam
-- 👀 I’m interested in Computer Network, mainly focused on SDN, the Next Generation Network, OVS and DPDK.
-- 🌱 I’m currently learning OVS and DPDK.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : jiangxuelian@bupt.edu.cn
+- 👀 I’m interested in Computer Network, mainly focused on SDN, OVS and DPDK.
 
 <!---
 CookieBearJam/CookieBearJam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
